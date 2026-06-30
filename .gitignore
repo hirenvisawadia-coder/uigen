@@ -8,3 +8,4 @@ logs.txt
 .DS_Store
 tsconfig.tsbuildinfo
 .claude/
+src/generated/prisma/*.tmp*
